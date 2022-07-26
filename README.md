@@ -7,3 +7,6 @@ Reopen last working directory whenever new fish shell is open.
 ```fish
 fisher install btvoidx/rpwd.fish
 ```
+
+### Used by:
+me 🙂
